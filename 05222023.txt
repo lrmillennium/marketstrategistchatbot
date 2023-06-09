@@ -1,0 +1,57 @@
+I am shockingly, comically bad at golf. However, that doesn’t stop me from occasionally watching more gifted souls play the game. 
+
+One of their techniques is to examine a putt from multiple perspectives. They take a careful look at the green as they come up to mark their ball, look at the putt from the side, squat down to consider it from the opposite direction, and generally scout out the lay of the land from all angles. For myself, since I’m generally wielding the putter playing my seventh or eighth, I don’t further test the patience of my companions with such preparations. However, I will admit that, for the average golfer, looking at a putt from multiple angles yields useful information.
+
+A similar rationale can be applied to monetary policy decisions. Changes in monetary policy are among the most important drivers of stock and bond returns. Consequently, one of the questions we are asked most frequently is where will the federal funds rate be at the end of the year?
+
+There are at least five ways of thinking about this question and each of them says something about the investment environment. In particular, it’s worth considering:
+
+Where does the Fed expect it to be?
+Where does the futures market expect it to be?
+Where do investment professionals expect it to be?
+Where, given optimal economic policy, should it be? and
+Where is it likely to be?
+
+On the first question, the Fed provides explicit guidance four times a year. The Federal Open Market Committee (FOMC), when fully staffed, numbers 19 in total, including seven members of the Federal Reserve Board of Governors and the presidents of the 12 regional federal reserve banks. The FOMC meets eight times a year and before four of those meetings, (those held in March, June, September and December), each member provides their own forecasts of some key economic variables and the level of the federal funds rate at the end of the next few years. This forecast for the federal funds rate is actually shown as a “dot plot” chart, with each dot signifying the opinion of one of the participants.
+
+In March, there were only 18 participants, as governor Lael Brainard had recently resigned to take up another post. At that time, when considering the appropriate federal funds rate for the end of 2023, one member thought the rate should be between 4.75% and 5.00%, ten said between 5.00% and 5.25%, three thought between 5.25% and 5.50%, three said between 5.50% and 5.75% and one thought between 5.75% and 6.00%.
+
+The median forecast was, therefore, between 5.00% and 5.25%. At that March meeting, the Fed boosted the rate to a range of 4.75% to 5.00% and, in May, raised it again by 0.25%, moving the rate to that median end-of-year forecast. 
+
+On June 14th, at the end of the next FOMC meeting, markets will have a new dot plot to consider. In recent weeks, many Fed officials have provided hints on the evolution of their views and, based on this information, we expect the Fed to leave rates unchanged in June and continue to provide a median year-end forecast of 5.00% to 5.25%.
+
+One interesting aspect of the current environment is that futures markets don’t appear to believe this FOMC forecast. In particular, as of this morning, while the fed funds futures market was pricing in only an 18% shot that the Fed would raise rates at their June meeting, it was fully pricing in one 25 basis point rate cut and a 90% chance of a second before the end of the year.
+
+At first, this seems very puzzling. By forecasting a rate of 5.00% to 5.25% for the end of the year, members of the FOMC are implicitly sending a message that they intend to raise the federal funds rate to an appropriately restrictive level and hold it there into 2024. Some of them have even explicitly said this. So why doesn’t the futures market believe them?
+
+Actually, this may not be entirely a case of the market doubting the Fed. The yield curve remains heavily inverted today with a federal funds rate of 5.08%, a two-year yield of 4.22% and a ten-year yield of 3.65%. Long-term rates have been driven down by a global demand for Treasuries and an expectation of slower growth, lower inflation and easier Fed policy in the long run. 
+
+However, as long-term rates have fallen, investors have been encouraged to buy shorter duration securities, bending the entire yield curve downwards. As Treasury yields have fallen, arbitrage should have pulled derivative market yields down also and the fed funds futures market is, of course, a derivative market rather than an unbiased snapshot of the expectations of the average market participant. 
+
+In other words, it is quite possible for the fed funds futures markets to “price in” two rate cuts before the end of the year even if the majority of market participants don’t believe that this is the most likely scenario.
+
+And actually, survey data suggest most market participants believe the Fed. Of the 72 respondents to Bloomberg’s most recent survey of professional Wall Street forecasters, published last week, 47 predicted that the fed funds rate would end the year in a range of 5.00% to 5.25%, compared to 22 predicting something higher and 3 predicting something lower.
+
+This survey did not ask what the Fed should do, from the perspective of optimal policy. However, this is also a question worth considering since, if the Fed is making a mistake, they will likely realize it at some point and change direction.
+
+Optimal policy should reflect a judgement on the direction of economic growth on one side and inflation on the other. It should also consider what might be a reasonable tradeoff between the two and the risks that the economy faces. 
+
+On growth, recent data have been generally comforting. April saw somewhat stronger-than-expected auto sales, housing starts and employment numbers, suggesting that real GDP is continuing to grow in the second quarter, despite widespread predictions of recession. That being said, there are clear signs of diminishing momentum in the labor market. In addition, continued fiscal drag, slow labor force growth, an increasingly cautious business sector and tighter bank lending all have the potential to slow growth further. This being the case, it is a very close call as to whether the economy will enter recession or not before the end of 2023.
+
+On the inflation front, the news continues to be encouraging. Year-over-year CPI inflation has now fallen from a peak of 8.9% last June to 5.0% in April. Recent data show a stabilization in energy prices, airfares and hotel rates and declines in some food and used car prices. This, combined with very strong inflation in May and June of last year, suggests that year-over-year inflation should fall to roughly 4.1% in May and to between 3.0% and 3.5% in June. Moreover, with rental inflation also now peaking, it is possible that year-over-year inflation will remain below 4% through the end of 2023 before sliding steadily to 2.0% over the course of 2024.
+
+While runaway inflation is and should be regarded as unacceptable by the Federal Reserve, inflation that is at much more moderate levels and on a steady downward track should not be alarming. It does not seem logical to precipitate a recession to accelerate this inflation decline.
+
+Moreover, while there is some risk of renewed inflation pressure, most of the risks faced by the economy are of a more disinflationary hue. In particular, we don’t know how much further pressure could be put on regional banks by the current level of interest rates, given gradual deposit outflows and questions about commercial real estate loans in particular.
+
+Bearing all of this in mind, the Federal Reserve would seem to be well advised not to raise rates any further. Indeed the track record of monetary history in this century strongly suggests that the Federal Reserve has been too activist, having little impact on their professed goals of modulating inflation and economic growth but having a great deal of disruptive effect in first inflating and then bursting asset bubbles. A truly optimal policy would probably be an orderly return to a “neutral” interest rate and an avowal not to budge from that rate, except in case of financial emergency, allowing fiscal policy to be used to speed up or slow down the economy.
+
+Given all of this, what is the Fed most likely to do? 
+
+First, the mid-June FOMC meeting should be preceded by a relatively moderate employment report on June 2nd and a benign CPI inflation report on June 13th. If this is the case, and assuming that some resolution is found to the debt-ceiling standoff between now and then, the Fed is likely to go on hold, reserving the option to increase rates further should inflation pressures pick up. 
+
+Thereafter, the Fed would like to hold rates at current levels through the end of the year. However, if inflation continues to decline and the third quarter sees declines in both real GDP and payroll employment, the Fed could cut interest rates at their mid-December meeting. Conversely, if growth and inflation merely continue to slow throughout 2023, the Federal Reserve will likely postpone rate cuts until 2024. 
+
+It should finally be noted that when the Fed does cut rates in 2024, it will likely feel the need to cut multiple times, as there is no aspect of the current economic environment that suggests a revival in either growth or inflation next year.
+
+For investors, it is important to assess all the angles on Fed policy this year. The issue is not just what the Fed will do but whether they will be right in doing it. Easier monetary policy in the short run would be an unambiguous positive for the economy and markets. However, policy that is too tight, while it could result in unnecessary economic pain, would also pave the way for easier policy next year, setting the stage for a more benign environment for financial assets even if it is a tougher one for American workers and consumers.

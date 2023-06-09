@@ -1,0 +1,61 @@
+In 1787, on the last day of the Constitutional Convention, a lady asked Benjamin Franklin what form of government had been agreed to. He famously replied, “A Republic – if you can keep it”. He was, of course, alluding to the danger that partisanship or ill-advised policies could yet return the young country to the monarchy it had so recently escaped. 
+
+In the spring of 2023, we have a soft landing – if we can keep it. Labor market data, in particular, suggest a trend of normalization to slow and steady growth. However, this desirable outcome is still threatened by intransigence on the issue of the debt ceiling in Congress, (notwithstanding the weekend deal between President Biden and Speaker McCarthy) and undue zealotry on the part of some Fed officials in battling inflation. The next few days should provide some clarity on all of these issues but particularly on the state of the U.S. jobs market with the release of the job openings and labor turnover survey (JOLTS) on Wednesday, unemployment claims on Thursday and the employment report on Friday. 
+
+One way to try to assess the state of the labor market and its implications for monetary policy and investing, is to bucket the numbers into four groups, namely, those that pertain to labor demand, labor supply, employment growth and wages. 
+
+Labor Demand
+
+Starting with labor demand, on Wednesday we get a new read on job openings for the end of April, along with numbers on quits and layoffs.
+
+Among all the labor market data, job openings appear to be furthest from normal. The pre-pandemic peak in job openings was 7.6 million in November 2018. Job openings initially plunged in the pandemic and then soared to a new peak of 12.0 million in March 2022. In the year since then, strong hiring and more cautious business attitudes have led to a decline in openings but, as of March 2023, they were still at 9.6 million - two million higher than their pre-pandemic peak. 
+
+This picture of excess job openings is confirmed by survey data from the National Federation of Independent Business which showed that 45% of small businesses had unfilled job openings in April, down from a record high of 51% in May 2022, but far above any pre-pandemic reading or the 49-year average of 23%.
+
+This may overstate the degree of excess demand for labor as it doesn’t cost much for a business to keep a job posting open. So while we expect another small decline in job openings in the April data, other numbers in the JOLTs report could be more significant. In particular, it’s worth looking at the ratio of quits to layoffs. In some sense this could be seen as a balance between worker complacency and business caution.
+
+For most of the last 20 years, this ratio has been rising, peaking in March of 2019 at a level of 2.09 – that is to say, just over two voluntary quits for every one layoff. After an initial pandemic plunge, the ratio soared to a new peak of 3.35 by April 2022, as workers felt confident enough to hand in their notice on the way to bigger and better things and employers were loath to let good people go. Since then, it has retreated to 2.13 – 97% of the way back to its pre-pandemic peak.
+
+Unemployment claims represent another important measure of labor demand. In the two years before the pandemic, initial unemployment claims averaged 217,000 per week, reflecting a tight labor market. Initial claims then exploded during the pandemic but have now returned to relatively normal levels, averaging 215,000 per week over the past year, although an average of 232,000 over the past four weeks suggests some gathering labor market weakness. This weakness is even more apparent in layoff announcements tabulated by Challenger, Gray and Christmas which, at an average of 84,000 per month, are running well above their pre-pandemic levels and contributing to public perceptions that the economy is slowing down. 
+
+So, broadly speaking, data on quits, layoffs and unemployment claims suggest that labor demand had fully returned to pre-pandemic levels, with only job openings data pointing to a huge excess demand for labor.
+
+Labor Supply
+
+On the supply side, the short-term impacts of the pandemic are over. However, the long-term effects, combined with relatively weak demographics, are likely to hold labor supply in check.
+
+The good news is that illness is no longer keeping an unusually high number of people away from their jobs. In April of this year, 2.9 million people reported that they could not work for all or part of the employment survey week due to their own illness. This is down very sharply from the 7.8 million peak in January 2022 and is only marginally higher than the April average of 2.7 million in the five years before the pandemic. 
+
+The bad news is that there is a lingering long-COVID problem. According to the Household Pulse Survey, conducted for the CDC by the Census Bureau, 1.4% of adults in late April and early May reported having significant activity limitations from long COVID, a number that has varied in a narrow range between 1.4% and 1.8% since last September. While this is, thankfully, a small percentage, it still represents roughly 3.5 million adults, many of whom are likely restricted in their ability to work.
+
+This long-lasting impact of COVID adds to the impact of generally weak demographics due to the aging of the baby-boom generation. This has been alleviated, to some extent by a recent post-pandemic revival in immigration. Still, in the year ended in April 2023, while the population age 16+ rose by 1.0%, the population aged 20-64 grew by only 0.6%.
+
+And then there is the issue of willingness to work. At first glance, it would seem that the labor force participation rate has a long way to go to return to normal. In the five years before the start of the pandemic, it averaged 62.9%. That is to say, 62.9% of the civilian non-institutionalized population aged 16 and older was working or actively looking for a job. Moreover, it was trending up, hitting a peak of 63.3% in February of 2020. By April of 2020 it had plunged to 60.1% and by April of 2023 had only recovered 76% of that drop, standing at 62.6%.
+
+However, these statistics are very misleading. The problem with the labor force participation rate is that it includes everyone over the age of 15 and so includes millions of American retirees. Labor force participation drops dramatically over the age of 65 and, ever since 2012, the baby-boom generation has been moving over the age of 65. Indeed, all other things being equal, the aging of the U.S. population would have reduced the labor force participation rate by 0.51% between February of 2020 and April of 2023. This suggests that the true labor-force participation rate has recovered 91% of its pandemic losses. If another 728,000 people were in the labor force today, we would be back to the age-adjusted, pre-pandemic labor force participation rate peak. If we add in the impact of long COVID in pulling people out of the labor force, we are likely very close to the peak labor force participation rate that we could expect, even with solid wage growth and very low unemployment.
+
+The idea that we are close to maximum labor supply is also supported by a decline in the average workweek for all workers down to 34.4 hours in March and April. The workweek has been sliding steadily, as the pandemic has abated, as those workers who could come back to work part time have done so. However, the average workweek has now returned to its pre-pandemic average suggesting that there may not be many qualified workers who could still devote more hours to the job.  
+
+Job Growth
+
+Adding it up, the data suggest that, while the labor market is tight, the excess demand for labor is cooling quickly while the number of available workers that could be lured back into the workforce has also fallen sharply from its post-pandemic surplus. This would suggest that we should be seeing a deceleration in payroll job growth and a stabilization in the unemployment rate. And, indeed, we appear to be seeing both of these effects.
+
+In particular, while monthly numbers are volatile, a three-month moving average of payroll employment growth has fallen from 524,000 in April 2022 to 222,000 in April of 2023. We believe this fell further in May to roughly 205,000 for the month and 208,000 as a three-month moving average.
+
+From the fourth quarter of 2000 to the fourth quarter of 2019, that is, from cyclical peak to cyclical peak, real GDP in the United States grew at an average annual rate of 1.97% while payroll employment grew at an annual rate of 0.72%. If this relationship holds going forward and if the economy somehow managed to maintain a real GDP growth rate of 1.97%, it would imply payroll growth of just 93,000 jobs per month.
+
+However, in practice, businesses over-hire in expansions and over-fire in recessions. Consequently, it is possible that employment growth will remain above this pace for a few more months and then dip below it later in the year, possibly turning negative as businesses grow more wary. In similar fashion, it may be that job growth, in an environment of very tight labor supply pushes the unemployment rate below its current 53-year low of 3.4% to a 70-year low of 3.3% or lower, before gradually beginning to rise towards the end of the year.
+
+Wage Growth
+
+Another remarkable aspect of the normalization of the labor market is that it is occurring without extraordinary wage gains or industrial action. Average hourly earnings for all workers were up 4.4% year-over-year in April, marking a 25th consecutive month where year-over-year wage growth trailed CPI inflation. While everyone is very aware of the burden of higher inflation on families, corporations have been remarkably successful at holding wage growth in check. In addition, only six major strikes have started in the first four months of 2023, compared to a still low 23 in 2022, indicating that workers are not aggressively demanding wage increases. 
+
+This may reflect general economic pessimism – surveys of both economists and the general public show a significant fear that the economy will fall into recession. However, it may also reflect a general lack of bargaining power on the part of workers. Either way, while solid wage growth may be slowing the overall decline in inflation, there is no evidence that it is causing any reacceleration in inflation.
+
+A Soft Landing - If We Can Keep It
+
+Most of this is very good news. In 2022, many feared that the economy was headed for runaway inflation. Entering 2023, many felt recession was inevitable. However, in the spring of 2023, the labor market and the economy in general are trending towards a soft landing.
+
+While this may give investors reason for some optimism, caution is still warranted. This week needs to see the passage of a debt-ceiling deal by both houses of Congress, requiring both sides to put the national interest above political posturing. In addition, the Federal Reserve needs to stop raising short-term interest rates. While the economy is still seeing just a slow-motion slowdown, there remain significant issues on both the liability and asset side of regional bank balance sheets and this still has the potential to tip the economy into recession. 
+
+In short, improved prospects for the U.S. economy suggest opportunity in risk assets in general. However, questions about decisions about to be made in Washington underscore the need to maintain broad diversification.  

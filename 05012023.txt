@@ -1,0 +1,71 @@
+On Ireland’s Atlantic seaboard, ten miles west of the town of Lisdoonvarna, stand the majestic Cliffs of Moher. They are a popular tourist attraction but also a dangerous one – in the 25 years ended in 2017, 66 people tragically plunged over the cliffs to their death.
+
+Of course, there is no reason why anyone should meet such a fate. The long grassy path beside the cliffs is bounded by a wire fence, with frequent signs warning visitors not to cross it or to venture any closer to the cliffs. However, inevitably a few foolishly ignore the warning and, for a few of them, it is their last bit of foolishness on this earth. 
+
+What makes the cliffs so treacherous is not just their height or the almost perpetual swirling wind. It is the grass growing in thick tuffets right up to the edge. You can never be sure when the turf will give way under your feet – when cutting it close is cutting it too close.
+
+Watching the current Washington debt-ceiling standoff is rather like watching reckless teenagers dance on the side of those cliffs. Their careless assurances that they would never countenance default should comfort no one, both because they seem willing to dance closer to the edge than ever before and the reality that they may not be able to tell precisely where that edge is until it is too late to avoid default. It should go without saying that politicians willing to take these risks on our behalf should not be in office. However, for investors, it is important to appreciate the risk of a debt-ceiling disaster and what steps could be taken to limit its impact on portfolios.
+
+Why the debt ceiling is an issue
+
+The normal budget process starts with the President submitting a budget proposal to Congress in early February for the upcoming fiscal year. While this particular proposal is often declared “dead on arrival”, it starts a process of congressional committee meetings, budget resolutions, appropriations bills and proposed changes to revenues which should be considered by the Congress in the following months. The fiscal year starts on October 1st and in the last 25 years Congress has never actually completed action on the budget by the start of the fiscal year, thus necessitating the passage of a series of continuing resolutions until the budget process can be wrapped up. However, importantly, no changes can be made in appropriations or to the federal tax code without a majority vote in both houses of Congress and the President’s signature.
+
+On top of this process, however, the federal government instituted a debt ceiling in 1917 as part of the Second Liberty Bond Act to help fund the U.S. contribution to World War I. Since then, the limit has been suspended or raised over 100 times, although this has often been accompanied by some political theatre. Most notably, the debt ceiling crisis of 2011 led Standard and Poor’s to downgrade federal debt for the first time in U.S. history and another tense negotiation over the debt ceiling brought the country to within days of default in 2013.
+
+Since then, the debt ceiling has been raised or suspended five times without much controversy. Most recently, in December 2021, the debt ceiling was raised to $31.381 trillion, roughly $2.2 trillion higher than public debt subject to limit at that time. Deficits since then have, of course, added to the debt and in January, Treasury Secretary Janet Yellen announced that the federal government had reached the limit and was initiating extraordinary measures to pay the bills. She estimated the combination of the Treasury’s cash balances and these extraordinary measures would allow the Federal Government to pay the bills at least until early June.
+
+Investors have been particularly concerned about the current debt-ceiling negotiations since Republicans achieved a narrow majority in the House of Representatives last November and have vowed to wring budget concessions from the Administration in return for a vote to increase or suspend the debt ceiling. 
+
+How close are we to the X Date?
+
+In communications since January, Secretary Yellen has made it clear that considerable uncertainty surrounds the actual date on which the government will no longer be able to pay its bills, commonly referred to as the “X Date”. Part of that uncertainty is due to the difficulty in projecting annual tax payments and refunds which are processed around the mid-April tax filing deadline. 
+
+We are now getting some clarity on this issue. As of April 27th, with one business day left in the month, the Federal Government had $294 billion in its checking account at the Federal Reserve and we believe that the Treasury Department is already implementing all currently available extraordinary measures. We currently project budget deficits of $188 billion and $144 billion for May and June respectively, or a total of $332 billion, which would leave Treasury short by $38 billion. If Secretary Yellen could somehow find enough quarters in the couch to get to June 30th, there is a final one-time set of extraordinary measures available on that date, totaling $146 billion, that could just about fund the government through July, stretching the X Date out into early August.
+
+However, more likely we are talking about June, and possibly early June, since the government typically makes substantial payments at the start of each month. However, because of the variability of daily cash flows, the Treasury Department is unlikely to know the precise X Date until a few days before.
+
+The state of the standoff
+
+These calculations suggest that we could reach the X Date within the next six weeks, which naturally begs the question of where we are on negotiations. 
+
+On the House Republican side, last Wednesday, Speaker Kevin McCarthy succeeded in rounding up 217 Republican votes to pass a bill that would raise the debt ceiling by $1.5 trillion or until next March, whichever came first. However, the bill also contained $4.8 trillion in proposed deficit reduction measures over the next 10 years. These provisions include a $131 billion cut to current discretionary spending and then limiting the growth of discretionary spending to 1% per year over the next decade as well as cancelling the President’s student loan forgiveness plan and repealing most of the clean energy tax credits from last year’s Inflation Reduction Act. This bill will clearly not pass the Senate or be signed by the President.
+
+The Administration, for its part, claims that it will not negotiate on raising the debt ceiling and is urging Congress to pass a clean debt ceiling bill. 
+
+The structure of the end game 
+
+In order to see what could be a possible solution to this standoff, it’s important to rule out what is unlikely to happen:
+
+ First, there is no way, at this stage, to balance the budget to avoid debt from rising. CBO estimates for the current fiscal year suggest spending of $6.2 trillion and revenue of $4.8 trillion, resulting in a budget deficit of $1.4 trillion. The majority of that spending consists of Social Security, Medicare & Medicaid, and interest payments. Discretionary spending, divided roughly evenly between defense and non-defense programs, amounts to $1.8 trillion and there is no way that these programs could or should be cut so savagely in the short run as to achieve immediate balance. 
+Second, last minute prioritization is not practical. Some have argued that the federal government could avoid immediate default by prioritizing debt payments over all other bills that the federal government has to pay. This would, of course, be a mere stopgap since it would only avoid default in the long run if the budget were actually balanced. Moreover, the Treasury’s computers are essentially programed to pay all bills as they come due. There are millions of these bills every year and the computer coding to achieve actual prioritization would be formidable even with months of planning and impossible without it. No such plan has been implemented.
+Third, the so-called “14th amendment option” is fraught with peril. Section 4 of the 14th amendment to the U.S. Constitution declares that “The validity of the public debt of the United States, authorized by law,….shall not be questioned”. According to some legal scholars, this gives the President the right to ignore the debt ceiling. However, the issue has been hotly debated over the years and has never been adjudicated by the Supreme Court. A standoff in which the Administration allowed the debt to exceed the debt limit and then crossed its fingers that the Supreme Court would rule in its favor would be dangerous in the extreme since an adverse court ruling would result in instant default. 
+ Fourth, some have argued that the Treasury Department could mint a trillion dollar coin and deposit it at the Federal Reserve to continuing paying its bills. However, this approach would also set up a legal fight with a very uncertain outcome.
+
+Once all of this is understood, it is clear that the only eventual end to the crisis can be a bipartisan bill passing Congress to raise, suspend or eliminate the debt ceiling. It will have to be bi-partisan as it will need a majority in the Republican-controlled House of Representatives and 60 votes in the Democratic-controlled Senate. It will have to have Speaker McCarthy’s acquiescence since the bill cannot reach the House floor without his agreement. And it will have to have the President’s approval since the bill will need his signature.
+
+All of this will eventually require significant compromise. 
+
+In the best of all worlds, Congress would have the courage to both eliminate the debt ceiling altogether and set about the reform of spending and taxes required to bring the budget back to balance in the long run. 
+
+However, in the world of Washington, there are really only two possible paths to avoid default.  
+
+The simplest would be Speaker McCarthy agreeing to allow a bill onto the House floor to suspend the debt ceiling until the fall, allowing time to negotiate a budget compromise.
+
+Alternatively, the Administration could offer Speaker McCarthy enough budgetary concessions right now to get a compromise bill onto the House floor, while still being sufficiently balanced to win the Democratic votes necessary to pass the Senate.
+
+Investment implications of the debt-ceiling cliff dance
+
+Either way, the debt ceiling will have to be raised or suspended on a bi-partisan vote and so the only real question is how soon we get to this point?
+
+If the Administration and Congressional leadership make it clear that this is where we are headed and immediately start negotiating in earnest, then it is possible to imagine an increase in the debt ceiling passing before the end of May. If this were to happen, markets would largely ignore the fiscal debate and resume their focus on the risk of recession, the pace of inflation and the hawkishness of the Federal Reserve.
+
+If, however, political posturing prevails for some more weeks, then we could reach the end of May with a growing nervousness about whether such a bill would pass Congress in time to avoid default. Equity market volatility would rise. In theory, a threat to credit-worthiness of federal debt should boost Treasury interest rates and depress the dollar. However, the traditional safe-haven role of both Treasuries and the dollar make this effect less certain.
+
+If, in an act of unprecedented recklessness, Congress fails to increase or suspend the debt ceiling in time, the Treasury will likely miss an interest or principal payment on the debt. This event would likely precipitate a major stock market meltdown, a spike in Treasury interest rates and a collapse in the dollar. A further downgrade to U.S. debt would be probably occur. After a few days of chaos, Congress would likely suspend the debt ceiling for a period and get back to negotiating the budget. However, some default risk premium would likely permanently be added to U.S. Treasuries and the uncertainty caused by the crisis would increase the likelihood of a near-term recession.
+
+For investors, it may be tempting to move to the sidelines while debt-ceiling uncertainty remains. However, it should be recognized that this situation will, eventually, be resolved. Partisanship in Washington could push the federal government to the brink of default or, in a worst case scenario, actual default. However, members of Congress won’t have the stomach to perpetuate a fiscal crisis and recession if, by the simple act of suspending the debt ceiling, they can provide relief to their constituents. The passage of such a bill should cause a rebound in the stock market, although some damage to the dollar and the Treasury bond market may be permanent.
+
+Across all of these outcomes, the one potentially common thread is a decline in the dollar and investors may want to make sure they have good exposure to the bonds and stocks of other developed economies, denominated in foreign currency.
+
+However, it is best not to think of the debt-ceiling crisis as a potential rerun of the Great Financial Crisis. Restoring confidence in the U.S. banking system in the wake of the subprime crisis was an immensely complicated and uncertain task. By contrast, recovery from a debt-default crisis would likely start the day Congress, belatedly, suspended the debt ceiling. Getting close to default or actually defaulting would undoubtedly reduce confidence in U.S. political leaders. However, given their willingness to dance on the cliffs of debt default, it is hard to imagine that much of this kind of confidence is priced into global markets today. 
+

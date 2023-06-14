@@ -4,5 +4,9 @@
 1. use createjson4langchain.jpnyb to create the json message for langchain
    - you can collect more articles and put them in the postings directory
 2. use marketstrategistchatbot.jpynb to build the chatbot using langchain vector store, chain, and OpenAI embedding model to build a query with context and get answers from the openAI or dolly LLM
-   - For OpenAI, you will need a OpenAI API license key
-   - For Dolly, you will need spin up your cluster to run the Dolly model
+   - To use OpenAI Chat LLM, you  need to do the following : 
+   ```
+   export OPENAI_API_KEY='your_open_ai_license_key'
+   jupyter-lab
+   ```
+   - For Dolly, you need to spin up a cluster to run the Dolly model
